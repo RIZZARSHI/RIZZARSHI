@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 - :school: I'm currently studying in ... Kendriya Vidyalaya, Subathu, India
 - 🔭 I’m currently working on ... ReImagine Texture Pack for Minecraft
-- 🌱 I’m currently pracicing ... Law
+- 🌱 I’m currently practicing ... Law
 - 👯 I’m looking to collaborate on ... Any Minecraft Resource Pack Project 
 - 💬 Ask me about ... What ever.... :laughing:
 - 😄 Pronouns: ... He/Him
