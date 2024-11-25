@@ -24,13 +24,3 @@ Here are some ideas to get you started:
   [<img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white">](https://store.epicgames.com/en-US/u/03c12ca4ce6b43da94bffb4a2350d13a)
 </div>
 <br>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
-
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
