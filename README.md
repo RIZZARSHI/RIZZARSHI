@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ### Gaming:
 <div display="flex">
-  [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">(https://steamcommunity.com/profiles/76561199483441874/)]
-  [<img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white">(https://store.epicgames.com/en-US/u/03c12ca4ce6b43da94bffb4a2350d13a)]
+  [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/profiles/76561199483441874)
+  [<img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white">](https://store.epicgames.com/en-US/u/03c12ca4ce6b43da94bffb4a2350d13a)
 </div>
 <br>
 
