@@ -8,14 +8,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/_Badmoshnath)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/badmoshnath)
 
-Here are some ideas to get you started:
-- :school: I'm currently studying in ... Kendriya Vidyalaya, Subathu, India
-- 🔭 I’m currently working on ... ReImagine Texture Pack for Minecraft
-- 🌱 I’m currently practicing ... Law
-- 👯 I’m looking to collaborate on ... Any Minecraft Resource Pack Project 
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Whenever i get Bored i go to Discord to have some Convo with Someone
+Just a Law Student who modify Files in Games as a hobby
 <br/>
 
 ### Gaming:
